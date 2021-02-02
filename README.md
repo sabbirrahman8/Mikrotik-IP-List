@@ -1,2 +1,2 @@
 # Mikrotik-IP-List
-this will be some text.
+List update interval:  Every 12 hours.
